@@ -1,0 +1,1 @@
+This project is a sentiment analysis project. It allows users to view the sentiments of a constituency based on the completion of CDF projects. To get started, clone the repository and follow the setup instructions. Contributions are welcome! If you encounter any issues, feel free to open an issue or submit a pull request.
