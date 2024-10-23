@@ -13,7 +13,8 @@ angela.kinoro@riarauniversity.ac.keq
 Instructions to build and run:
 1. Clone the repository on your device.
 2. Environment installations
-   For environment variables and dependencies: 
+   For environment variables and dependencies:
+   
 FOR THE USSD APPLICATION IN ussd_to_db.py: 
 
 FOR THE MODEL IN FineTuning1.ipynb:
