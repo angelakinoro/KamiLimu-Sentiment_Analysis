@@ -47,6 +47,7 @@ FEATURES
 	- Database: Uses PostgreSQL to store project details and user feedback.
 	- Sentiment Analysis: Leverages a fine-tuned DistilBERT model to analyze the sentiment of feedback.
 	- Dynamic Menus: Provides a USSD menu where users select constituency, project, project state, and urgency.
+	- Webpage that displays aggregated sentiments for particular projects
 	
 
 
